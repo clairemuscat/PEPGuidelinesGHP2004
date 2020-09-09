@@ -19,10 +19,9 @@ You will produce an individual report of one of the following formats:
 * Written PEPs should be ~1000 words in length and published to Medium
 * Recorded PEPs should be ~5 minutes in length and published to Youtube (unlisted)
 
-### Review
+## Submissions
 
-While PEP is an individual assignment, you will be assigned to a review group of ~3 students with which to share and review your PEPs. Peer reviewers are also responsible for leaving upvotes/positive comments on their groupmates' published PEPs!
-
+* End of the cohort
 
 ## **Inspiration**
 
