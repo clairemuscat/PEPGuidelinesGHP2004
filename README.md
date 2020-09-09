@@ -23,10 +23,6 @@ You will produce an individual report of one of the following formats:
 
 While PEP is an individual assignment, you will be assigned to a review group of ~3 students with which to share and review your PEPs. Peer reviewers are also responsible for leaving upvotes/positive comments on their groupmates' published PEPs!
 
-### Submission
-
-* Friday, Week 2: Topics Due
-* Wednesday, Week 4: Final Draft Due
 
 ## **Inspiration**
 
